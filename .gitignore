@@ -1,0 +1,6 @@
+.env
+vw-data/
+caddy-config/
+caddy-data/
+docker-compose.yml.old
+nodes
